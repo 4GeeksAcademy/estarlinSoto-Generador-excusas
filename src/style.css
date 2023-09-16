@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-image: url("https://r4.wallpaperflare.com/wallpaper/628/187/589/code-minimalism-programming-programming-language-wallpaper-0950587df11abd3b16e7e82f805126dd.jpg");
+}
+
+h1 {
+  font-weight: 700;
+  color: rgb(237, 237, 237);
+  margin: 90px 0px 20px 0px;
+}
+
+.excusaContainer {
+  border: solid rgb(98, 98, 98) 10px;
+  margin: auto;
+  padding: 30px;
+  width: 50%;
+}
+
+.excusaContainer:hover {
+  border: solid white 5px;
+}
